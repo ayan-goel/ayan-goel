@@ -1,6 +1,6 @@
 # 🚀 Hi, I'm Ayan Goel!
 
-I'm a passionate **Computer Science** student at **Georgia Tech**, driven by a deep curiosity and enthusiasm for **Software Engineering**, **Artificial Intelligence**, and **Finance**. My goal is to leverage cutting-edge technologies to build powerful, user-centric products that make a meaningful impact.
+I'm a passionate **Computer Science** student at **Georgia Tech**, driven by curiosity and enthusiasm for learning. My goal is to be at the forefront of software engineering to build powerful, user-centric products that make a meaningful impact.
 
 ---
 
