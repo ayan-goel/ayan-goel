@@ -1,43 +1,28 @@
 # 🚀 Hi, I'm Ayan Goel!
 
-I'm a passionate **Computer Science** student at **Georgia Tech**, driven by curiosity and enthusiasm for learning. My goal is to be at the forefront of software engineering to build powerful, user-centric products that make a meaningful impact.
+CS student at **Georgia Tech** passionate about **software engineering**, **AI**, and **finance**. I build useful products that solve real problems.
 
 ---
 
-## 🌟 Notable Experiences
+## 🌟 Industry Experiences
 
-* 🎯 \*\*Software Engineering Intern @ \*\***[FanDuel](https://www.fanduel.com/)**
-
-  * Developed full-stack features on the Sportsbook platform, enhancing user experience for millions of active users.
-
-* 💡 \*\*Product Research Intern @ \*\***[Microsoft](https://www.microsoft.com)**
-
-  * Explored and prototyped multi-agent architectures to optimize business workflows, focusing on innovative integrations and automation.
+* **SWE Intern @ [FanDuel](https://www.fanduel.com/)** – Built full-stack features for the Sportsbook platform used by millions.
+* **Product Research Intern @ [Microsoft](https://www.microsoft.com)** – Prototyped multi-agent systems to streamline business workflows.
 
 ---
 
-## 💻 Projects I'm Currently Building
+## 💻 Current Projects
 
-* 🏋️‍♂️ **[Merge Fitness](https://ayangoel.net/projects/merge-fitness)**
-
-  * Mobile app built in Flutter serving a personal trainer with **300+ active clients**, featuring scheduling, exercise/meal plans, payment, tracking, virtual calling, and more.
-  
-* 📈 **Crypto High-Frequency Trading Bot**
-
-  * Engineered in **C++**, leveraging low-latency, high-performance strategies for market making on Binance, optimizing profitability in real-time.
-
-* 📋 **Rush Recruitment App**
-
-  * Full-stack web app for managing fraternity recruitment, efficiently handling data for **200+ rushees** and utilized by **100+ fraternity members**, streamlining the recruitment lifecycle.
+* **[Merge Fitness](https://ayangoel.net/projects/merge-fitness)** – Flutter app for a trainer with 300+ clients: plans, payments, tracking, video calls.
+* **Crypto HFT Bot** – Market making on Binance using C++ and low-latency infra.
+* **Rush App** – Full-stack tool for recruiting 200+ rushees, used by 100+ fraternity members.
 
 ---
 
-## 📬 Let's Connect!
+## 📬 Contact Me
 
-* 🌐 **[LinkedIn](https://www.linkedin.com/in/ayan-goel)** 
-* 😎 **[Personal Portfolio](https://ayangoel.net)** 
-* 📧 [agoel320@gatech.edu](mailto:agoel320@gatech.edu)
-* 📱 **(770) 362-3133**
+[LinkedIn](https://www.linkedin.com/in/ayan-goel) | [Portfolio](https://ayangoel.net)
+📧 [agoel320@gatech.edu](mailto:agoel320@gatech.edu) | 📱 (770) 362-3133
 
 ---
 
