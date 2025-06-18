@@ -10,12 +10,12 @@ CS student at **Georgia Tech** passionate about **software engineering**, **AI**
 ## 💻 Current Projects
 
 * **Merge Fitness** – Flutter app for a trainer with 300+ clients: plans, payments, tracking, video calls.
-* **Crypto HFT Bot** – Market making on Binance using C++ and low-latency infra.
+* **Crypto HFT Bot** – High frequency market making on Binance using C++ and low-latency infrastructure.
 * **Rush App** – Full-stack tool for recruiting 200+ rushees, used by 100+ fraternity members.
 
 ## 📬 Contact Me
 
-[LinkedIn](https://www.linkedin.com/in/ayan-goel) | [Portfolio](https://ayangoel.net)
+[LinkedIn](https://www.linkedin.com/in/ayan-goel) | [Portfolio](https://ayangoel.net) |
  [agoel320@gatech.edu](mailto:agoel320@gatech.edu) | (770) 362-3133
 
 ---
