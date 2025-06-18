@@ -22,4 +22,3 @@ CS student at **Georgia Tech** passionate about **software engineering**, **AI**
 
 > "Opportunities multiply as they are seized." – *Sun Tzu*
 
-Let's build something amazing together.
