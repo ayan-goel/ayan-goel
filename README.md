@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Ayan Goel!
+# 🚀 Hi, I'm Ayan!
 
 CS student at **Georgia Tech** passionate about **software engineering**, **AI**, and **finance**. I build useful products that solve real problems.
 
