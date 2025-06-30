@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Ayan!
+# 👨🏾‍💻 Hi, I'm Ayan!
 
 CS student at **Georgia Tech** passionate about **software engineering**, **AI**, and **data**. I build useful products that solve real problems.
 
