@@ -11,7 +11,7 @@ CS student at **Georgia Tech** passionate about **software engineering**, **AI**
 
 * **Merge Fitness** – Flutter app for a trainer with 120+ clients: plans, payments, tracking, video calls.
 * **Crypto HFT Bot** – High frequency market making on Binance using C++ and low-latency infrastructure.
-* **Rush App** – Full-stack tool for recruiting 200+ rushees, used by 100+ fraternity members.
+* **Rush App** – Business Fraternity tool for recruiting 200+ rushees, used by 100+ fraternity members.
 
 ## 📬 Contact Me
 
