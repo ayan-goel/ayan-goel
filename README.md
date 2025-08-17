@@ -4,6 +4,7 @@ CS student at **Georgia Tech** passionate about **software engineering**, **AI**
 
 ## 🌟 Industry Experiences
 
+* **SWE Intern @ [Narb](https://www.narb.cc/)** – Working in a startup creating SaaS products from the ground up.
 * **SWE Intern @ [FanDuel](https://www.fanduel.com/)** – Built full-stack features for the Sportsbook platform used by millions.
 * **Research Fellow @ [Microsoft](https://www.microsoft.com)** – Prototyped multi-agent systems to streamline business workflows.
 
