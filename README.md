@@ -5,7 +5,7 @@ CS student at **Georgia Tech** passionate about **software engineering**, **AI**
 ## 🌟 Industry Experiences
 
 * **SWE Intern @ [FanDuel](https://www.fanduel.com/)** – Built full-stack features for the Sportsbook platform used by millions.
-* **Product Research Intern @ [Microsoft](https://www.microsoft.com)** – Prototyped multi-agent systems to streamline business workflows.
+* **Research Fellow @ [Microsoft](https://www.microsoft.com)** – Prototyped multi-agent systems to streamline business workflows.
 
 ## 💻 Current Projects
 
