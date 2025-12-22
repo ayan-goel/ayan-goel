@@ -4,7 +4,7 @@ CS student at **Georgia Tech** passionate about **software engineering**, **AI**
 
 ## 🌟 Industry Experiences
 
-* **SWE Intern @ [Narb](https://www.narb.cc/)** – Working in a startup creating SaaS products from the ground up.
+* **SWE Intern @ [Millennium](https://www.mlp.com/)** – Working on low latency trading systems in C++ in Summer of 2026.
 * **SWE Intern @ [FanDuel](https://www.fanduel.com/)** – Built full-stack features for the Sportsbook platform used by millions.
 * **Product Fellow @ [Microsoft](https://www.microsoft.com)** – Prototyped multi-agent systems to streamline business workflows.
 
@@ -12,7 +12,7 @@ CS student at **Georgia Tech** passionate about **software engineering**, **AI**
 
 * **Merge Fitness** – Flutter app for a trainer with 120+ clients: plans, payments, tracking, video calls. Maintaining and adding features based on customer feedback.
 * **Crypto HFT Bot** – High frequency market making on Coinbase using C++ and low-latency infrastructure. Working on implementing Next.js dashboard and PyTorch-powered parameter tweaks.
-* **Rush App** – Business Fraternity tool for recruiting 200+ rushees, used by 100+ fraternity members. Adding live features and improving UX.
+* **Rush App** – Business Fraternity tool for recruiting 200+ rushees, used by 150+ fraternity members. Adding live features and new operational changes for the next semester.
 
 ## 📬 Contact Me
 
