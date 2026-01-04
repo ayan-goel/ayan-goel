@@ -11,7 +11,7 @@ CS student at **Georgia Tech** passionate about **software engineering**, **AI**
 ## 💻 Current Projects
 
 * **Merge Fitness** – Flutter app for a trainer with hundreds clients: plans, payments, tracking, video calls, messaging. Maintaining and adding features based on customer feedback.
-* **Crypto HFT Bot** – High frequency market making on Coinbase using C++ and low-latency infrastructure. Working on implementing Next.js dashboard and PyTorch-powered parameter tweaks.
+* **OneCommit** – Serving as director of engineering for a GT x Emory based startup. Creating recruitment copilot for high school athletes seeking to participate in college athletics.
 * **Rush App** – Business Fraternity tool for recruiting 200+ rushees, used by 150+ fraternity members. Adding live features and new operational changes for the next semester.
 
 ## 📬 Contact Me
