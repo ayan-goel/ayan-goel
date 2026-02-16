@@ -10,9 +10,9 @@ CS student at **Georgia Tech** passionate about **software engineering**, **AI**
 
 ## 💻 Current Projects
 
-* **Merge Fitness** – Flutter app for a trainer with hundreds clients: plans, payments, tracking, video calls, messaging. Maintaining and adding features based on customer feedback.
-* **OneCommit** – Serving as director of engineering for a GT x Emory based startup. Creating recruitment copilot for high school athletes seeking to participate in college athletics.
-* **Rush App** – Business Fraternity tool for recruiting 200+ rushees, used by 150+ fraternity members. Adding live features and new operational changes for the next semester.
+* **[OneCommit](https://www.onecommit.us/)** – Serving as director of engineering for a GT x Emory based startup. Creating recruitment copilot for high school athletes seeking to participate in college athletics.
+* **[Rush App](https://rush.gtakpsi.org/)** – Business Fraternity tool for recruiting 200+ rushees, used by 150+ fraternity members. Adding live features and new operational changes for the next semester.
+* **[Merge Fitness](https://apps.apple.com/us/app/merge-health-fitness/id6747954527)** – Flutter app for a trainer with hundreds clients: plans, payments, tracking, video calls, messaging. Maintaining and adding features based on customer feedback.
 
 ## 📬 Contact Me
 
