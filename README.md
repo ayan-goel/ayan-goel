@@ -10,9 +10,12 @@ CS student at **Georgia Tech** passionate about **software engineering**, **AI**
 
 ## 💻 Current Projects
 
+* **[Evobase](https://evobase.app/)** – Asynchronous codebase optimization platform that makes small, incremental refactors that are validated for ensured functionality. You focus on building out the product, Evobase keeps your codebase healthy.
 * **[OneCommit](https://www.onecommit.us/)** – Serving as director of engineering for a GT x Emory based startup. Creating recruitment copilot for high school athletes seeking to participate in college athletics.
-* **[Rush App](https://rush.gtakpsi.org/)** – Business Fraternity tool for recruiting 200+ rushees, used by 150+ fraternity members. Adding live features and new operational changes for the next semester.
+* **[Coinbase Market Maker](https://github.com/ayan-goel/crypto_bot)** – C++ bot running HFT on Coinbase market data streams. Probably not going to leave paper trading/simulation because maker fees are too high :(
+* **[Rush App](https://rush.gtakpsi.org/)** – Business Fraternity tool for recruiting 250+ rushees, used by 150+ fraternity members. Adding live features and new operational changes for the next semester.
 * **[Merge Fitness](https://apps.apple.com/us/app/merge-health-fitness/id6747954527)** – Flutter app for a trainer with hundreds clients: plans, payments, tracking, video calls, messaging. Maintaining and adding features based on customer feedback.
+
 
 ## 📬 Contact Me
 
