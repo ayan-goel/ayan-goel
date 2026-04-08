@@ -11,7 +11,7 @@ CS student at **Georgia Tech** passionate about **software engineering**, **AI**
 ## 💻 Current Projects
 
 
-* **[Antibody Language Models](https://github.com/ayan-goel/antibody-mlm)** – Developing biologically informed masking strategies for fine-tuning of Antibody Language Models with plans for a NeurIPS submission.
+* **[Optimizing Antibody Language Models](https://github.com/ayan-goel/antibody-mlm)** – Developing biologically informed masking strategies for fine-tuning of Antibody Language Models with plans for a NeurIPS submission.
 * **[Evobase](https://evobase.app/)** – Asynchronous codebase optimization platform that makes small, incremental refactors that are validated for ensured functionality. You focus on building out the product, Evobase keeps your codebase healthy.
 * **[OneCommit](https://www.onecommit.us/)** – Serving as director of engineering for a GT x Emory based startup. Creating recruitment copilot for high school athletes seeking to participate in college athletics.
 * **[Coinbase Market Maker](https://github.com/ayan-goel/crypto_bot)** – C++ bot running HFT on Coinbase market data streams. Probably not going to leave paper trading/simulation because maker fees are too high :(
