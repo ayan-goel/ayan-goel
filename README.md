@@ -8,15 +8,6 @@ CS student at **Georgia Tech** passionate about **software engineering**, **AI**
 * **SWE Intern @ [FanDuel](https://www.fanduel.com/)** – Built full-stack features for the Sportsbook platform used by millions.
 * **Product Fellow @ [Microsoft](https://www.microsoft.com)** – Prototyped multi-agent systems to streamline business workflows.
 
-## 💻 Current Projects
-
-* **[RISC-V Kernel](https://github.com/ayan-goel/os-from-scratch)** – Building a RISC-V kernel in C, built from bare metal, ending in an online-learning process scheduler evaluated against round-robin and MLFQ baselines.
-* **[Optimizing Antibody Language Models](https://github.com/ayan-goel/antibody-mlm)** – Developing biologically informed masking strategies for fine-tuning of Antibody Language Models with plans for a NeurIPS submission.
-* **[Evobase](https://evobase.app/)** – Asynchronous codebase optimization platform that makes small, incremental refactors that are validated for ensured functionality. You focus on building out the product, Evobase keeps your codebase healthy.
-* **[OneCommit](https://www.onecommit.us/)** – Serving as director of engineering for a GT x Emory based startup. Creating recruitment copilot for high school athletes seeking to participate in college athletics.
-* **[Rush App](https://rush.gtakpsi.org/)** – Business Fraternity tool for recruiting 250+ rushees, used by 150+ fraternity members. Adding live features and new operational changes for the next semester.
-
-
 ## 📬 Contact Me
 
 [LinkedIn](https://www.linkedin.com/in/ayan-goel) | [Portfolio](https://ayangoel.net) |
