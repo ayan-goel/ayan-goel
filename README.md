@@ -4,7 +4,7 @@ CS student at **Georgia Tech** passionate about **software engineering**, **AI**
 
 ## 🌟 Industry Experiences
 
-* **SWE Intern @ [Millennium](https://www.mlp.com/)** – Core Technology Division, developing MCP servers and internal APIs.
+* **SWE Intern @ [Millennium](https://www.mlp.com/)** – Core Technology Division, developing MCPs and internal agentic tools.
 * **SWE Intern @ [FanDuel](https://www.fanduel.com/)** – Built full-stack features for the Sportsbook platform used by millions.
 * **Product Fellow @ [Microsoft](https://www.microsoft.com)** – Prototyped multi-agent systems to streamline business workflows.
 
