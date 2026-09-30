@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Hi, I'm Ayan!
 
-CS student at **Georgia Tech** passionate about **software engineering**, **AI**, and **data**. I build useful products that solve real problems.
+CS student at **Georgia Tech** passionate about **backend engineering**, **AI**, and **low-level systems**. I build useful products that solve real problems.
 
 ## 🌟 Industry Experiences
 
